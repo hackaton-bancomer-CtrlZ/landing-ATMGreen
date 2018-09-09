@@ -65,13 +65,9 @@ body .container-fluid {
   margin-top: 25px;
 }
 .cont-title ul li {
-  text-align: justify;
   list-style: none;
-  background-image: url("../assets/boton-de-reproduccion.svg");
-  background-size: 25px;
-  padding-left: 27px;
-  background-position-y: 5px;
-  background-repeat: no-repeat;
+  list-style-image: url("../assets/flecha.png");
+  margin-bottom: 25px;
 }
 
 .icon-atm {
@@ -86,6 +82,10 @@ body .container-fluid {
   background-image: url("https://www.bbvaopenmind.com/wp-content/uploads/2013/02/BBVA-OpenMind-Etica-12-Kristin-Shrader-Fechette-ecologia-y-etica-ambiental.jpg");
   background-position: unset;
   background-size: cover;
+}
+
+.cont-txt {
+  font-size: 1.8rem;
 }
 
 .txt-bold {
