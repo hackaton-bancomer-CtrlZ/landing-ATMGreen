@@ -51,10 +51,10 @@ body .container-fluid {
   width: 80%;
 }
 
-.cont-title:first-child {
+.cont-title {
   font-size: 2.5rem;
 }
-.cont-title:first-child .title {
+.cont-title .title {
   color: #088A08;
   font-weight: 600;
   font-size: 7.5rem;
@@ -75,11 +75,9 @@ body .container-fluid {
   background-size: cover;
 }
 
-.counter {
-  color: #088A08;
+.txt-bold {
   font-weight: 600;
-  font-size: 7.5rem;
-  letter-spacing: 3px;
+  color: #088A08;
 }
 
 /*# sourceMappingURL=style.css.map */
